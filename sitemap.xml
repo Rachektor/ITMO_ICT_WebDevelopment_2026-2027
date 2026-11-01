@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://rachektor.github.io/ITMO_ICT_WebDevelopment_2026-2027/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-01</lastmod>
     </url>
     <url>
          <loc>https://rachektor.github.io/ITMO_ICT_WebDevelopment_2026-2027/lab1/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-01</lastmod>
+    </url>
+    <url>
+         <loc>https://rachektor.github.io/ITMO_ICT_WebDevelopment_2026-2027/lab2/</loc>
+         <lastmod>2026-11-01</lastmod>
+    </url>
+    <url>
+         <loc>https://rachektor.github.io/ITMO_ICT_WebDevelopment_2026-2027/practice21/</loc>
+         <lastmod>2026-11-01</lastmod>
+    </url>
+    <url>
+         <loc>https://rachektor.github.io/ITMO_ICT_WebDevelopment_2026-2027/practice22/</loc>
+         <lastmod>2026-11-01</lastmod>
+    </url>
+    <url>
+         <loc>https://rachektor.github.io/ITMO_ICT_WebDevelopment_2026-2027/practice23/</loc>
+         <lastmod>2026-11-01</lastmod>
     </url>
 </urlset>
